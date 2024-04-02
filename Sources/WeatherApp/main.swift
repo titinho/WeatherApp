@@ -2,6 +2,5 @@
 // https://docs.swift.org/swift-book
 
 public struct WeatherApp {
-  public static let greeting = ""
+  public static let greeting = "Have a nice day!"
 }
-
