@@ -4,6 +4,7 @@ import XCTest
 
 final class WeatherAppTests: XCTestCase {
   func testGreeting() {
+    // A zárójeleken belüli szövegeknek meg kell egyezniük.
     XCTAssertEqual(WeatherApp.greeting, "Have a nice day!")
   }
 }
